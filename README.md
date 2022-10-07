@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project has been developed using tailwind.css
+This project has been developed using [Tailwind CSS](https://tailwindcss.com/)
 
 ## Available Scripts
 
