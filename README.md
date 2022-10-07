@@ -41,8 +41,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 SCREENSHOTS
 
-<img src="https://user-images.githubusercontent.com/70320254/194547104-1bfccdc9-ecb9-422d-9268-d5072b3d76c6.png" width=450 /> | <img src="https://user-images.githubusercontent.com/70320254/194547161-e1f04993-26e8-4bb9-a0a5-a38485cb0476.png"  width=450 /> 
-<img src="https://user-images.githubusercontent.com/70320254/194547242-57d979e3-77a3-4cac-b193-d0dc2a5f172f.png"  width=450 /> 
-<img src="https://user-images.githubusercontent.com/70320254/194547441-679be375-3f82-44d4-802c-8b3609d301bf.png"  width=450 /> 
+<img src="https://user-images.githubusercontent.com/70320254/194547104-1bfccdc9-ecb9-422d-9268-d5072b3d76c6.png" width=400 /> | <img src="https://user-images.githubusercontent.com/70320254/194547161-e1f04993-26e8-4bb9-a0a5-a38485cb0476.png"  width=400 /> 
+<img src="https://user-images.githubusercontent.com/70320254/194547242-57d979e3-77a3-4cac-b193-d0dc2a5f172f.png"  width=400 /> 
+<img src="https://user-images.githubusercontent.com/70320254/194547441-679be375-3f82-44d4-802c-8b3609d301bf.png"  width=400 /> 
 
     
